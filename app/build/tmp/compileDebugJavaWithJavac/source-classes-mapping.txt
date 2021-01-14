@@ -1,0 +1,4 @@
+com/project/webapp/BuildConfig.java
+ com.project.webapp.BuildConfig
+com/project/webapp/MainActivity.java
+ com.project.webapp.MainActivity
